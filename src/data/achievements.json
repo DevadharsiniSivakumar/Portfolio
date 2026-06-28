@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Smart India Hackathon (SIH)",
+    "rank": "1st Place (Winner)",
+    "year": "2025",
+    "description": "Developed an Edge AI-based smart security solution for railways under the Ministry of Railways, operating fully offline on edge devices.",
+    "icon": "Trophy"
+  },
+  {
+    "title": "National Level Robotics Challenge",
+    "rank": "Runner Up (2nd)",
+    "year": "2025",
+    "description": "Co-engineered and programmed a terrain mapping rover that navigated a simulated lunar landscape in record-breaking time.",
+    "icon": "Award"
+  },
+  {
+    "title": "CodeChef Division 2 Star Contest",
+    "rank": "Top 100",
+    "year": "2024",
+    "description": "Finished in the top 100 competitors globally in a contested CodeChef Starters round, achieving a peak rating of 1850+.",
+    "icon": "Medal"
+  },
+  {
+    "title": "Inter-College Algorithm Speedrun",
+    "rank": "1st Place",
+    "year": "2024",
+    "description": "Cleared all 8 advanced algorithmic problems in 43 minutes, outpacing 250+ teams in rapid code execution.",
+    "icon": "Zap"
+  }
+]

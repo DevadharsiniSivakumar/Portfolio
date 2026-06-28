@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cp-start",
+    "title": "Began Competitive Programming Journey",
+    "subtitle": "Discovering Algorithms & Data Structures",
+    "date": "2022",
+    "description": "Fell in love with computational problem solving. Started practicing on LeetCode and CodeChef, learning advanced dynamic programming, graph theory algorithms, and mathematical optimization techniques.",
+    "category": "programming",
+    "icon": "Terminal"
+  },
+  {
+    "id": "ml-deep-dive",
+    "title": "Deep Dive into Machine Learning",
+    "subtitle": "From Linear Algebra to PyTorch",
+    "date": "2023",
+    "description": "Transitioned from traditional algorithmics to statistical learning. Built computer vision pipelines using PyTorch, custom convolutional neural networks, and integrated Hugging Face models for natural language interfaces.",
+    "category": "ai",
+    "icon": "Cpu"
+  },
+  {
+    "id": "robotics-integration",
+    "title": "Venturing into Robotics & Control",
+    "subtitle": "Bridging Software and the Physical World",
+    "date": "2024",
+    "description": "Joined college robotics lab and learned ROS 2 (Robot Operating System) and inverse kinematics. Worked on hardware-in-the-loop systems, combining sensor streams (LiDAR, IMU) for mapping and navigation.",
+    "category": "robotics",
+    "icon": "Compass"
+  },
+  {
+    "id": "edge-ai-opt",
+    "title": "Optimizing AI for the Edge",
+    "subtitle": "TensorRT & Quantization Workflows",
+    "date": "2025",
+    "description": "Focused on deploying heavy models onto hardware-constrained environments. Explored TensorRT optimization and INT8 quantization, deploying real-time depth estimation models onto Jetson devices.",
+    "category": "ai",
+    "icon": "Zap"
+  },
+  {
+    "id": "hackathon-streak",
+    "title": "The Hackathon Sprint",
+    "subtitle": "48-Hour Rapid Prototyping & Leadership",
+    "date": "2025 - 2026",
+    "description": "Participated in and won multiple national hackathons. Led team development for full-stack AI and IoT systems, refining skills in rapid API integrations, robust database architecture, and project presentations.",
+    "category": "hackathons",
+    "icon": "Trophy"
+  }
+]

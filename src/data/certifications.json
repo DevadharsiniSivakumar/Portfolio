@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Deep Learning Specialization",
+    "issuer": "DeepLearning.AI (Coursera)",
+    "year": "2024",
+    "credentialId": "DL-SPEC-98A72B",
+    "link": "https://coursera.org/verify/specialization/DL-SPEC"
+  },
+  {
+    "title": "Building Transformer Applications",
+    "issuer": "NVIDIA Deep Learning Institute",
+    "year": "2025",
+    "credentialId": "NVIDIA-DLI-TRAFO-89",
+    "link": "https://courses.nvidia.com/certificates/verify"
+  },
+  {
+    "title": "ROS 2 Fundamentals for Robotics",
+    "issuer": "ConstructSim (Robotics Academy)",
+    "year": "2024",
+    "credentialId": "ROS2-FUND-88210",
+    "link": "https://constructsim.com/verify/ros2-fundamentals"
+  },
+  {
+    "title": "AWS Certified Developer - Associate",
+    "issuer": "Amazon Web Services",
+    "year": "2025",
+    "credentialId": "AWS-DVA-A551",
+    "link": "https://aws.amazon.com/verification"
+  }
+]

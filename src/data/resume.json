@@ -1,0 +1,37 @@
+{
+  "resumeUrl": "/resume.pdf",
+  "email": "devadharsini.s@example.com",
+  "linkedin": "https://linkedin.com/in/devadharsini-sivakumar",
+  "github": "https://github.com/devadharsini-s",
+  "leetcode": "https://leetcode.com/u/devadharsini-s",
+  "codechef": "https://www.codechef.com/users/devadharsini_s",
+  "hackerrank": "https://hackerrank.com/devadharsini_s",
+  "skillrack": "https://www.skillrack.com/profile/devadharsini",
+  "leetcodeStats": {
+    "solved": 782,
+    "rating": 1942,
+    "badge": "Knight"
+  },
+  "codechefStats": {
+    "solved": 312,
+    "rating": 1852,
+    "badge": "4 Star"
+  },
+  "hackerrankStats": {
+    "solved": 210,
+    "badge": "5 Star Problem Solving"
+  },
+  "skillrackStats": {
+    "solved": 1250,
+    "rank": 214
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Computer Science (Specialization in AI & Robotics)",
+      "institution": "PSG College of Technology",
+      "year": "2022 - 2026",
+      "gpa": "9.24 / 10.0 CGPA",
+      "details": "Focused coursework on Advanced Machine Learning, Kinematics & Robotics Control, Real-Time Operating Systems, and Advanced Algorithms. Core developer in the Student Robotics Club."
+    }
+  ]
+}
