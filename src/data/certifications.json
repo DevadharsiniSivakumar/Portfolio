@@ -1,30 +1,37 @@
 [
   {
-    "title": "Deep Learning Specialization",
-    "issuer": "DeepLearning.AI (Coursera)",
-    "year": "2024",
-    "credentialId": "DL-SPEC-98A72B",
-    "link": "https://coursera.org/verify/specialization/DL-SPEC"
-  },
-  {
-    "title": "Building Transformer Applications",
-    "issuer": "NVIDIA Deep Learning Institute",
+    "title": "Mastering DSA using C and C++",
+    "issuer": "Udemy",
     "year": "2025",
-    "credentialId": "NVIDIA-DLI-TRAFO-89",
-    "link": "https://courses.nvidia.com/certificates/verify"
+    "credentialId": "UDEMY-DSA-992",
+    "link": "https://www.udemy.com/certificate/verify"
   },
   {
-    "title": "ROS 2 Fundamentals for Robotics",
-    "issuer": "ConstructSim (Robotics Academy)",
-    "year": "2024",
-    "credentialId": "ROS2-FUND-88210",
-    "link": "https://constructsim.com/verify/ros2-fundamentals"
-  },
-  {
-    "title": "AWS Certified Developer - Associate",
-    "issuer": "Amazon Web Services",
+    "title": "Machine learning with Python",
+    "issuer": "IBM",
     "year": "2025",
-    "credentialId": "AWS-DVA-A551",
-    "link": "https://aws.amazon.com/verification"
+    "credentialId": "IBM-ML-PY-883",
+    "link": "https://www.coursera.org/verify"
+  },
+  {
+    "title": "Crash Course on Python",
+    "issuer": "Google",
+    "year": "2024",
+    "credentialId": "GOOGLE-PY-102",
+    "link": "https://coursera.org/verify"
+  },
+  {
+    "title": "C Programming",
+    "issuer": "Infosys",
+    "year": "2024",
+    "credentialId": "INFOSYS-C-2210",
+    "link": "https://www.infosys.com/verification"
+  },
+  {
+    "title": "Spoken Tutorial CPP Training",
+    "issuer": "IIT-BOMBAY",
+    "year": "2024",
+    "credentialId": "IITB-CPP-098",
+    "link": "https://spoken-tutorial.org/certificate"
   }
 ]

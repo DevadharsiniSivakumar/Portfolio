@@ -1,54 +1,54 @@
 [
   {
-    "category": "Programming",
+    "category": "Languages & Core Concepts",
     "items": [
-      { "name": "C++", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover", "Competitive Programming"] },
-      { "name": "Python", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Monocular Depth Estimation (IGNUS A3D)", "Autonomous Sand Excavation Rover"] },
-      { "name": "TypeScript", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Portfolio Website"] },
-      { "name": "JavaScript", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] },
-      { "name": "SQL", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] }
+      { "name": "Python", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Monocular Depth Estimation using Edge AI – Ignus A3D", "Autonomous Sand Excavation Rover – Exelerate XD"] },
+      { "name": "C++ [Basics]", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD", "Competitive Programming"] },
+      { "name": "Java", "level": "Proficient", "projectsUsed": ["Competitive Programming"] },
+      { "name": "C", "level": "Expert", "projectsUsed": ["Competitive Programming"] },
+      { "name": "DSA", "level": "Expert", "projectsUsed": ["Competitive Programming"] },
+      { "name": "OOPS", "level": "Expert", "projectsUsed": ["All Projects"] },
+      { "name": "DBMS", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] }
     ]
   },
   {
-    "category": "AI",
+    "category": "Robotics & Autonomy",
     "items": [
-      { "name": "PyTorch", "level": "Expert", "projectsUsed": ["Monocular Depth Estimation (IGNUS A3D)", "Aura – AI Beauty Concierge Platform"] },
-      { "name": "OpenCV", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Monocular Depth Estimation (IGNUS A3D)", "Autonomous Sand Excavation Rover"] },
-      { "name": "MediaPipe", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] },
-      { "name": "TensorRT", "level": "Proficient", "projectsUsed": ["Monocular Depth Estimation (IGNUS A3D)"] },
+      { "name": "ROS2", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD"] },
+      { "name": "Sensor Fusion", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD"] },
+      { "name": "AprilTags", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD"] },
+      { "name": "Navigation & Localization", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD"] },
+      { "name": "RTAB-Map SLAM", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD"] }
+    ]
+  },
+  {
+    "category": "Machine Learning",
+    "items": [
+      { "name": "PyTorch", "level": "Expert", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D", "Aura – AI Beauty Concierge Platform"] },
+      { "name": "TensorFlow", "level": "Proficient", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D"] },
       { "name": "LangChain", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] },
-      { "name": "Hugging Face", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] }
+      { "name": "MiDaS (DPT-Hybrid)", "level": "Expert", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D"] },
+      { "name": "YOLOv8 & Deep SORT", "level": "Expert", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D"] }
     ]
   },
   {
-    "category": "Robotics",
+    "category": "Tools",
     "items": [
-      { "name": "ROS 2", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover"] },
-      { "name": "MoveIt 2", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover"] },
-      { "name": "SLAM / Cartographer", "level": "Expert", "projectsUsed": ["Autonomous Sand Excavation Rover"] },
-      { "name": "Inverse Kinematics", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover"] },
-      { "name": "Arduino & Microcontrollers", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover"] }
-    ]
-  },
-  {
-    "category": "Frameworks",
-    "items": [
-      { "name": "Next.js", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Portfolio Website"] },
-      { "name": "FastAPI", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] },
-      { "name": "React", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Portfolio Website"] },
-      { "name": "Express", "level": "Proficient", "projectsUsed": ["Hackathon Projects"] },
-      { "name": "Tailwind CSS", "level": "Expert", "projectsUsed": ["Aura – AI Beauty Concierge Platform", "Portfolio Website"] }
-    ]
-  },
-  {
-    "category": "Tools & Platforms",
-    "items": [
+      { "name": "VSCode", "level": "Expert", "projectsUsed": ["All Projects"] },
+      { "name": "Pycharm", "level": "Proficient", "projectsUsed": ["AI Projects"] },
       { "name": "Git & GitHub", "level": "Expert", "projectsUsed": ["All Projects"] },
-      { "name": "Docker", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] },
-      { "name": "NVIDIA Jetson Nano", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover", "Monocular Depth Estimation (IGNUS A3D)"] },
-      { "name": "PostgreSQL", "level": "Proficient", "projectsUsed": ["Aura – AI Beauty Concierge Platform"] },
-      { "name": "Linux / Bash", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover", "Monocular Depth Estimation (IGNUS A3D)"] },
-      { "name": "Figma", "level": "Familiar", "projectsUsed": ["Portfolio Website", "Aura – AI Beauty Concierge Platform"] }
+      { "name": "Canva", "level": "Familiar", "projectsUsed": ["Design & Presentations"] },
+      { "name": "PowerBI", "level": "Familiar", "projectsUsed": ["Data Analysis"] },
+      { "name": "Jupyter Notebook", "level": "Proficient", "projectsUsed": ["ML Projects"] }
+    ]
+  },
+  {
+    "category": "Hardware & Platforms",
+    "items": [
+      { "name": "NVIDIA Jetson Orin Nano", "level": "Proficient", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D"] },
+      { "name": "NVIDIA Jetson Nano", "level": "Expert", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D", "Autonomous Sand Excavation Rover – Exelerate XD"] },
+      { "name": "NVIDIA Jetson TX1", "level": "Familiar", "projectsUsed": ["Monocular Depth Estimation using Edge AI – Ignus A3D"] },
+      { "name": "ESP Boards", "level": "Proficient", "projectsUsed": ["Autonomous Sand Excavation Rover – Exelerate XD"] }
     ]
   }
 ]

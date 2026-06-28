@@ -1,46 +1,46 @@
 [
   {
-    "id": "cp-start",
-    "title": "Began Competitive Programming Journey",
-    "subtitle": "Discovering Algorithms & Data Structures",
-    "date": "2022",
-    "description": "Fell in love with computational problem solving. Started practicing on LeetCode and CodeChef, learning advanced dynamic programming, graph theory algorithms, and mathematical optimization techniques.",
+    "id": "cp-milestone",
+    "title": "Stellar Algorithms & Problem Solving",
+    "subtitle": "LeetCode, Skillrack, & CodeChef Starters",
+    "date": "2024",
+    "description": "Solidified programming foundations. Solved over 1,200 problems on Skillrack and 300+ on LeetCode. Achieved CodeChef 4-Star status and Bronze problem solver credentials.",
     "category": "programming",
     "icon": "Terminal"
   },
   {
-    "id": "ml-deep-dive",
-    "title": "Deep Dive into Machine Learning",
-    "subtitle": "From Linear Algebra to PyTorch",
-    "date": "2023",
-    "description": "Transitioned from traditional algorithmics to statistical learning. Built computer vision pipelines using PyTorch, custom convolutional neural networks, and integrated Hugging Face models for natural language interfaces.",
+    "id": "ai-milestone",
+    "title": "Machine Learning Specialization & Certifications",
+    "subtitle": "IBM & Google Pathways",
+    "date": "2024 - 2025",
+    "description": "Deep dived into deep learning concepts. Earned credentials from Google and IBM. Programmed models using PyTorch and TensorFlow for complex object tracking and computer vision pipelines.",
     "category": "ai",
     "icon": "Cpu"
   },
   {
-    "id": "robotics-integration",
-    "title": "Venturing into Robotics & Control",
-    "subtitle": "Bridging Software and the Physical World",
-    "date": "2024",
-    "description": "Joined college robotics lab and learned ROS 2 (Robot Operating System) and inverse kinematics. Worked on hardware-in-the-loop systems, combining sensor streams (LiDAR, IMU) for mapping and navigation.",
-    "category": "robotics",
-    "icon": "Compass"
-  },
-  {
-    "id": "edge-ai-opt",
-    "title": "Optimizing AI for the Edge",
-    "subtitle": "TensorRT & Quantization Workflows",
+    "id": "depth-milestone",
+    "title": "Monocular Depth Estimation Launch",
+    "subtitle": "Deploying Ignus A3D on Jetson Edge Devices",
     "date": "2025",
-    "description": "Focused on deploying heavy models onto hardware-constrained environments. Explored TensorRT optimization and INT8 quantization, deploying real-time depth estimation models onto Jetson devices.",
+    "description": "Constructed Ignus A3D using the MiDaS DPT-Hybrid framework. Integrated YOLOv8 object detection, Deep SORT tracking, and dynamic multilingual voice warnings (English/Tamil) via Edge TTS.",
     "category": "ai",
     "icon": "Zap"
   },
   {
+    "id": "rover-milestone",
+    "title": "Autonomous Excavation Rover Engineering",
+    "subtitle": "ROS2 Humble & OAK-D Lite Kinematics",
+    "date": "2026",
+    "description": "Engineered Exelerate XD, a physical autonomous sand excavator. Integrated RTAB-Map SLAM for real-time 3D localization, AprilTags for visual markers, and custom velocity-driven motor actuation.",
+    "category": "robotics",
+    "icon": "Compass"
+  },
+  {
     "id": "hackathon-streak",
-    "title": "The Hackathon Sprint",
-    "subtitle": "48-Hour Rapid Prototyping & Leadership",
+    "title": "National Hackathons & Autonomy Finals",
+    "subtitle": "CAT Autonomy Challenge & Caterpillar Tech-a-thon",
     "date": "2025 - 2026",
-    "description": "Participated in and won multiple national hackathons. Led team development for full-stack AI and IoT systems, refining skills in rapid API integrations, robust database architecture, and project presentations.",
+    "description": "Placed in the Top 11 nationally at Shaastra CAT Autonomy Challenge (IIT Madras). Ranked Top 10 out of 2,250+ teams in Caterpillar's Tech-a-thon and secured second place at SECE Creatathon.",
     "category": "hackathons",
     "icon": "Trophy"
   }

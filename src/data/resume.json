@@ -1,37 +1,52 @@
 {
   "resumeUrl": "/resume.pdf",
-  "email": "devadharsini.s@example.com",
+  "email": "devadharsini.s2024cse@sece.ac.in",
+  "phone": "+91 9345806517",
   "linkedin": "https://linkedin.com/in/devadharsini-sivakumar",
-  "github": "https://github.com/devadharsini-s",
+  "github": "https://github.com/DevadharsiniSivakumar",
   "leetcode": "https://leetcode.com/u/devadharsini-s",
   "codechef": "https://www.codechef.com/users/devadharsini_s",
   "hackerrank": "https://hackerrank.com/devadharsini_s",
   "skillrack": "https://www.skillrack.com/profile/devadharsini",
   "leetcodeStats": {
-    "solved": 782,
-    "rating": 1942,
-    "badge": "Knight"
+    "solved": "300+",
+    "rating": 1564,
+    "badge": "Active Solver"
   },
   "codechefStats": {
-    "solved": 312,
-    "rating": 1852,
-    "badge": "4 Star"
+    "solved": "150+",
+    "rating": 1600,
+    "badge": "4 Star (Bronze)"
   },
   "hackerrankStats": {
-    "solved": 210,
-    "badge": "5 Star Problem Solving"
+    "solved": "200+",
+    "badge": "3 Star C & Python"
   },
   "skillrackStats": {
-    "solved": 1250,
-    "rank": 214
+    "solved": "1200+",
+    "rank": 350
   },
   "education": [
     {
-      "degree": "Bachelor of Engineering in Computer Science (Specialization in AI & Robotics)",
-      "institution": "PSG College of Technology",
-      "year": "2022 - 2026",
-      "gpa": "9.24 / 10.0 CGPA",
-      "details": "Focused coursework on Advanced Machine Learning, Kinematics & Robotics Control, Real-Time Operating Systems, and Advanced Algorithms. Core developer in the Student Robotics Club."
+      "degree": "Bachelor of Engineering in Computer Science and Engineering (B.E. CSE)",
+      "institution": "Sri Eshwar College of Engineering",
+      "year": "2024 - 2028",
+      "gpa": "8.23 CGPA",
+      "details": "Specialized study in Computer Science. Core focuses on Machine Learning algorithms, Data Structures and Analysis, and Autonomous Robotics. Active member in student technical leagues and hackathons."
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institution": "Bannari Amman Public School",
+      "year": "2022 - 2024",
+      "gpa": "83%",
+      "details": "Focused on Mathematics, Physics, Chemistry, and Computer Science."
+    },
+    {
+      "degree": "Secondary School Leaving Certificate (SSLC)",
+      "institution": "Bannari Amman Public School",
+      "year": "2020 - 2022",
+      "gpa": "94%",
+      "details": "Completed secondary education with top honors in Science and Mathematics."
     }
   ]
 }

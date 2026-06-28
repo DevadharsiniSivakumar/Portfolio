@@ -1,30 +1,30 @@
 [
   {
-    "title": "Smart India Hackathon (SIH)",
-    "rank": "1st Place (Winner)",
-    "year": "2025",
-    "description": "Developed an Edge AI-based smart security solution for railways under the Ministry of Railways, operating fully offline on edge devices.",
+    "title": "CAT Autonomy Challenge 2026 SHAASTRA",
+    "rank": "Finalist (Top 11)",
+    "year": "2026",
+    "description": "Selected as one of the top 11 teams nationally in a premium autonomous vehicle navigation and mapping challenge held at IIT Madras.",
     "icon": "Trophy"
   },
   {
-    "title": "National Level Robotics Challenge",
-    "rank": "Runner Up (2nd)",
+    "title": "Caterpillar's Tech-a-thon '25",
+    "rank": "Top 10 (out of 2252+ teams)",
     "year": "2025",
-    "description": "Co-engineered and programmed a terrain mapping rover that navigated a simulated lunar landscape in record-breaking time.",
+    "description": "Constructed and deployed an edge-intelligent machinery inspection algorithm, ranking in the top 10 out of more than 2,000 competing groups.",
     "icon": "Award"
   },
   {
-    "title": "CodeChef Division 2 Star Contest",
-    "rank": "Top 100",
-    "year": "2024",
-    "description": "Finished in the top 100 competitors globally in a contested CodeChef Starters round, achieving a peak rating of 1850+.",
+    "title": "Freshathon at Sri Eshwar College of Engineering",
+    "rank": "3rd Place",
+    "year": "2025",
+    "description": "Pitched and programmed a smart assistive tool for student optimization in under 24 hours, securing third place.",
     "icon": "Medal"
   },
   {
-    "title": "Inter-College Algorithm Speedrun",
-    "rank": "1st Place",
+    "title": "Creatathon at Sri Eshwar College of Engineering",
+    "rank": "2nd Place",
     "year": "2024",
-    "description": "Cleared all 8 advanced algorithmic problems in 43 minutes, outpacing 250+ teams in rapid code execution.",
+    "description": "Developed and animated an interactive learning mechanism for coding principles, achieving second place.",
     "icon": "Zap"
   }
 ]
