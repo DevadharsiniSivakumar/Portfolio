@@ -5,6 +5,7 @@ import { useTheme } from "@/context/ThemeContext";
 import { useRouter } from "next/navigation";
 import { Search, Sun, Moon, Folder, User, Terminal, Compass, Briefcase, Award, GraduationCap, Mail, ChevronRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import resumeData from "@/data/resume.json";
 
 interface CommandItem {
   id: string;
@@ -164,7 +165,7 @@ export const CommandPalette: React.FC = () => {
       category: "Actions",
       icon: <GraduationCap size={16} />,
       action: () => {
-        window.open("/resume.pdf", "_blank");
+        window.open(resumeData.resumeUrl, "_blank");
         setIsOpen(false);
       },
     },

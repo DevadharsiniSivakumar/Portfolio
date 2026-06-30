@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import projectsData from "@/data/projects.json";
-import { ArrowRight, ExternalLink } from "lucide-react";
+import { ArrowRight, ExternalLink, Play } from "lucide-react";
 import { GithubIcon } from "@/components/Icons";
 import { motion } from "framer-motion";
 
@@ -115,6 +115,18 @@ export const ProjectsSection: React.FC = () => {
                       >
                         <ExternalLink size={14} />
                         <span>Live Demo</span>
+                      </a>
+                    )}
+
+                    {project.videoDemo && (
+                      <a
+                        href={project.videoDemo.replace("/preview", "/view")}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-1.5 px-5 py-2.5 bg-pill-bg border border-pill-border hover:bg-card-bg text-text-primary text-xs font-bold uppercase tracking-wider rounded-xl transition-all cursor-pointer"
+                      >
+                        <Play size={14} className="text-accent fill-accent/20" />
+                        <span>Watch Video</span>
                       </a>
                     )}
                   </div>

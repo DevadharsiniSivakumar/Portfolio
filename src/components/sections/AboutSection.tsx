@@ -10,7 +10,7 @@ export const AboutSection: React.FC = () => {
     {
       title: "Who I Am",
       icon: <User size={20} className="text-accent" />,
-      content: "A final-year engineering student at PSG College of Technology specializing in AI and Robotics. I combine analytical algorithmic thinking with hands-on mechanical execution to build intelligent physical products.",
+      content: "A third-year engineering student at Sri Eshwar College of Engineering pursuing my Bachelors in Computer Science and Engineering. I combine analytical algorithmic thinking with hands-on execution to build intelligent physical products.",
       className: "md:col-span-2",
     },
     {
@@ -75,7 +75,7 @@ export const AboutSection: React.FC = () => {
         {/* Education Highlight Card */}
         {resumeData.education && resumeData.education.map((edu, idx) => (
           <motion.div
-            key={edu.institution}
+            key={`${edu.institution}-${edu.degree}`}
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, margin: "-100px" }}
@@ -95,7 +95,7 @@ export const AboutSection: React.FC = () => {
                 <p className="text-sm text-text-secondary mt-3 leading-relaxed max-w-3xl">{edu.details}</p>
               </div>
             </div>
-            
+
             <div className="shrink-0 bg-pill-bg border border-pill-border px-4 py-2.5 rounded-xl text-center md:text-right mt-4 md:mt-0">
               <div className="text-xs text-text-secondary font-medium">Academic Rating</div>
               <div className="text-lg font-sora font-extrabold text-accent mt-0.5">{edu.gpa}</div>

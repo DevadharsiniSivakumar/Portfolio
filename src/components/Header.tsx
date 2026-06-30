@@ -6,6 +6,7 @@ import { ThemeToggle } from "./ThemeToggle";
 import { CommandPalette } from "./CommandPalette";
 import { Menu, X, ArrowUpRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import resumeData from "@/data/resume.json";
 
 export const Header: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -44,7 +45,7 @@ export const Header: React.FC = () => {
           <CommandPalette />
           <ThemeToggle />
           <a
-            href="/resume.pdf"
+            href={resumeData.resumeUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1 text-xs font-semibold uppercase tracking-wider text-white bg-accent hover:bg-accent-hover px-4 py-2 rounded-lg transition-colors cursor-pointer"
@@ -89,7 +90,7 @@ export const Header: React.FC = () => {
                 </Link>
               ))}
               <a
-                href="/resume.pdf"
+                href={resumeData.resumeUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}

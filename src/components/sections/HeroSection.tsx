@@ -4,6 +4,7 @@ import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { ArrowDown, ArrowRight, Download } from "lucide-react";
+import resumeData from "@/data/resume.json";
 
 export const HeroSection: React.FC = () => {
   const handleScroll = () => {
@@ -77,7 +78,7 @@ export const HeroSection: React.FC = () => {
               <ArrowRight size={16} />
             </button>
             <a
-              href="/resume.pdf"
+              href={resumeData.resumeUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-3.5 bg-pill-bg border border-pill-border hover:bg-card-bg text-text-primary font-semibold rounded-xl transition-all text-sm cursor-pointer"

@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import projectsData from "@/data/projects.json";
-import { ArrowLeft, ExternalLink, Cpu, Compass, Terminal, ShieldAlert, Award } from "lucide-react";
+import { ArrowLeft, ExternalLink, Cpu, Compass, Terminal, ShieldAlert, Award, Play } from "lucide-react";
 import { GithubIcon } from "@/components/Icons";
 
 interface PageProps {
@@ -268,6 +268,17 @@ export default async function ProjectDetailPage({ params }: PageProps) {
               >
                 <ExternalLink size={14} />
                 <span>Live Demonstration</span>
+              </a>
+            )}
+            {project.videoDemo && (
+              <a
+                href={project.videoDemo.replace("/preview", "/view")}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 px-5 py-2.5 bg-pill-bg border border-pill-border hover:bg-card-bg text-text-primary text-xs font-bold uppercase tracking-wider rounded-xl transition-all cursor-pointer font-semibold"
+              >
+                <Play size={14} className="text-accent fill-accent/20" />
+                <span>Watch Video</span>
               </a>
             )}
           </div>

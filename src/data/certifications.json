@@ -4,34 +4,34 @@
     "issuer": "Udemy",
     "year": "2025",
     "credentialId": "UDEMY-DSA-992",
-    "link": "https://www.udemy.com/certificate/verify"
+    "link": "https://www.udemy.com/certificate/UC-0ae4451a-0d99-409a-8194-902a0ec5d52c/"
   },
   {
     "title": "Machine learning with Python",
     "issuer": "IBM",
     "year": "2025",
     "credentialId": "IBM-ML-PY-883",
-    "link": "https://www.coursera.org/verify"
+    "link": "https://coursera.org/share/bfa78dc7c9ea518cf48d44b7e2949829"
   },
   {
     "title": "Crash Course on Python",
     "issuer": "Google",
     "year": "2024",
     "credentialId": "GOOGLE-PY-102",
-    "link": "https://coursera.org/verify"
+    "link": "https://coursera.org/share/d67dd3c13d247155260d3d4bf5e11d5d"
   },
   {
     "title": "C Programming",
     "issuer": "Infosys",
     "year": "2024",
     "credentialId": "INFOSYS-C-2210",
-    "link": "https://www.infosys.com/verification"
+    "link": "https://drive.google.com/file/d/1aheHdaLn-Gt0aoWLFztPbnwxf2_-crdi/view?usp=sharing"
   },
   {
     "title": "Spoken Tutorial CPP Training",
     "issuer": "IIT-BOMBAY",
     "year": "2024",
     "credentialId": "IITB-CPP-098",
-    "link": "https://spoken-tutorial.org/certificate"
+    "link": "https://drive.google.com/file/d/1W8DYcTIhhI4qSlJmGdsrpNNBcxvJXUbz/view?usp=sharing"
   }
 ]

@@ -19,7 +19,7 @@ export const GallerySection: React.FC = () => {
   const items: GalleryItem[] = [
     {
       id: "rover-lab",
-      src: "/images/rover_device.png",
+      src: "/images/rover_device.jpg",
       title: "Autonomous Rover Testing in Robotics Lab",
       category: "Robotics",
       aspectRatio: "aspect-[4/3]",
