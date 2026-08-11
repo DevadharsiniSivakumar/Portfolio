@@ -98,7 +98,7 @@ export const HeroSection: React.FC = () => {
             className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-2xl overflow-hidden border border-card-border shadow-xl bg-card-bg"
           >
             <Image
-              src="/images/professional_portrait.png"
+              src="/images/professional_portrait.jpg"
               alt="Devadharsini Sivakumar Portrait"
               fill
               priority
