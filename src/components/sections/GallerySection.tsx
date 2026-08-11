@@ -40,7 +40,7 @@ export const GallerySection: React.FC = () => {
     },
     {
       id: "psg-award",
-      src: "/images/professional_portrait.jpg",
+      src: "/images/professional_portrait.jpeg",
       title: "PSG College of Technology Engineering Presentation",
       category: "College & Awards",
       aspectRatio: "aspect-[1/1]",
